@@ -69,6 +69,11 @@ El análisis abarca desde la recolección de datos hasta la creación de modelos
 2. Órbitas como **LEO** y **SSO** muestran mayores tasas de éxito.
 3. El modelo de clasificación basado en árboles de decisión predice el éxito con una precisión del 94.44%.
 
+
+## Visualizaciones Destacadas (Ejemplo)
+
+![Ejemplo de visualización](results/confusion_matrix_tree.png)
+
 ---
 
 ## **Referencias**
@@ -80,6 +85,10 @@ El análisis abarca desde la recolección de datos hasta la creación de modelos
 
 ## **Licencia**
 Este proyecto está licenciado bajo la Licencia MIT.
+
+## Contacto
+
+Para preguntas o sugerencias, puede contactar al autor a través de [jfrometa99@gmail.com] o abrir un issue en este repositorio.
 
 
 
